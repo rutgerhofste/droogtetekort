@@ -1,2 +1,6 @@
 # droogtetekort
 Droogtetekort
+
+
+KNMI stations:
+[link](http://worldresources.maps.arcgis.com/sharing/rest/content/items/01628c9825474371941d84a30cbc1d78/info/metadata/metadata.xml?format=default&output=html&token=mZvUsgx_5PxyeuT3JgaRUtBsFyAzDvt0ugawQkUyg4MZbGSv18xbaXv-DuPRw9uFkJAG8Je16YWjvWhm03PqWjlJTQWhAjuJ0zvVeJkiEkeOazmTE-SDYFZFcNoAVo4n_WjOsra6R_6kgpMRaijDqBikcoCgo89r6xZ5E8Nd096XAEjjSHLb2baOiR4ATmtxaJiW2fevyfmrkDhDa0nj15hTtY_2t6B1RBZ9XqagBWs.)
